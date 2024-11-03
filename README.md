@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Sergi 👋</h1>
-<h3 align="center">Un apasionado de la tecnología en continuo descubrimiento. A punto de terminar mi ciclo de DAM y con ganas de empezar a trabajar en este mundo.</h3>
+<h3 align="center">Un técnico superior apasionado de la tecnología en continuo descubrimiento.</h3>
 
 <h3 align="left">Sobre mí:</h3>
 
