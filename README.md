@@ -1,90 +1,68 @@
-<h1 align="center">👋 ¡Hola! Soy Sergi, Técnico Superior en DAM con Especialidad en DevOps 🚀</h1>
-<h3 align="center">Desarrollador en aplicaciones multiplataforma con sólida formación en DevOps y una gran pasión por la tecnología</h3>
+# 👋 ¡Hola! Soy Sergi — Desarrollador con Máster en DevOps 🚀
 
-<h3 align="left">Sobre mí:</h3>
+Desde pequeño, la tecnología despertó en mí una gran curiosidad. Aunque mi camino profesional comenzó en otro sector, decidí reconducir mi trayectoria hacia lo que realmente me apasiona: el desarrollo y el mundo DevOps.
 
-- 🔭 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps, con experiencia en proyectos académicos que abarcan diversas tecnologías y metodologías de desarrollo.
-- 🤝 Disfruto del trabajo en equipo y creo en la colaboración como una herramienta fundamental para el crecimiento continuo.
-- 📈 Mi enfoque incluye la automatización, el desarrollo de software escalable y la implementación de prácticas DevOps, adquiridas a través de formación y proyectos realizados durante el ciclo formativo.
+Me formé como **Desarrollador de Aplicaciones Multiplataforma** y posteriormente cursé un **Máster de especialización en DevOps**, donde descubrí cómo esta filosofía une desarrollo, despliegue y automatización para mejorar todo el ciclo de vida del software. Desde entonces, he trabajado en proyectos reales aplicando estas prácticas de forma práctica.
 
-<h3 align="left">Proyectos Académicos:</h3>
+---
 
-- **Desarrollo de Aplicaciones Multiplataforma**: Creación de aplicaciones para Android utilizando Java y Kotlin, integrando Firebase y APIs de Google (Google Vision, Google Cloud).
-- **Gestión de Bases de Datos**: Diseño y administración de bases de datos en Oracle, MySQL y PostgreSQL; uso de PL/SQL para procedimientos almacenados y triggers, así como consultas avanzadas y normalización de datos.
-- **Automatización con DevOps**: Creación de pipelines CI/CD para despliegue de aplicaciones, uso de Docker y Kubernetes para gestión de contenedores y automatización de entornos en Jenkins y GitHub Actions.
-- **APIs y Desarrollo Web**: Implementación de APIs RESTful con Spring Boot para proyectos CRUD y diseño de interfaces web responsivas con HTML, CSS, y JavaScript.
-- **Desarrollo en Unity**: Creación de un videojuego en 2D como proyecto práctico en Unity, explorando tanto el funcionamiento en 2D como en 3D.
+## 🛠️ Perfil Técnico
 
-<h3 align="left">Hobbies:</h3>
+- 🎓 Técnico Superior en DAM + **Máster de especialización en DevOps**
+- 💡 Apasionado por la automatización, la eficiencia operativa y la mejora continua
+- 🚀 Enfoque en CI/CD, contenedores, infraestructura como código y despliegue cloud
+- 🤝 Firme creyente en el trabajo en equipo y la cultura DevOps como clave del éxito
+- 📚 Actualmente en formación para la certificación **AWS Cloud Practitioner**
 
-- **Lectura:** Desde cuentos de Raymond Carver hasta ensayos sobre Inteligencia Artificial.
-- **Música:** Muy variado, desde vinilos hasta listas en Spotify.
-- **Deportes:** Practico ciclismo y gimnasia funcional para mantenerme en forma.
-- **Videojuegos:** Aficionado a títulos como Assassin's Creed y Red Dead Redemption.
-- **Cine:** Coleccionista de películas y amante del cine clásico y moderno.
+---
 
-<h3 align="left">Contacto:</h3>
+## 🧪 Proyectos Técnicos
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergio-martínez-porto-73727386/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+### 🧱 Aplicaciones Multiplataforma
+- Desarrollo de apps Android con **Java y Kotlin**
+- Integración con **Firebase Auth, Firestore y Storage**
+- Consumo de APIs como **Google Cloud y Google Vision**
 
-<p align="left">
-  <!-- DevOps -->
-  <h4 align="left">DevOps:</h4>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
+### 🛢️ Bases de Datos
+- Diseño y administración de **MySQL, PostgreSQL y Oracle**
+- Uso de **PL/SQL** para procedimientos, triggers y consultas avanzadas
 
-  <!-- Desarrollo -->
-  <h4 align="left">Desarrollo:</h4>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+### ⚙️ Automatización DevOps
+- Pipelines CI/CD con **Jenkins** y **GitHub Actions**
+- Contenerización con **Docker** y despliegue con **Kubernetes (Minikube + Helm)**
 
-  <!-- Bases de Datos -->
-  <h4 align="left">Bases de Datos:</h4>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
+### 🌐 APIs y Desarrollo Web
+- APIs RESTful con **Spring Boot**
+- Diseño de interfaces responsive con **HTML, CSS y JavaScript**
 
-  <!-- Otros -->
-  <h4 align="left">Otros:</h4>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+### 🎮 Desarrollo en Unity
+- Videojuego 2D como proyecto práctico en **Unity**
+- Exploración de mecánicas 2D/3D y exportación multiplataforma
+
+---
+
+## 💬 Sobre Mí
+
+- 🔍 Me gusta analizar, aprender y resolver problemas técnicos de forma creativa
+- 👨‍👩‍👧‍👦 Valoro mucho el trabajo en equipo, el respeto y el aprendizaje mutuo
+- 🌐 Mi objetivo es aportar valor real a los equipos como **DevOps Junior**, crecer en un entorno técnico exigente y consolidar mi camino profesional
+
+---
+
+## 🎯 Hobbies
+
+- 📚 **Lectura**: Desde cuentos de Raymond Carver hasta ensayos sobre IA
+- 🎧 **Música**: Vinilos, playlists para concentrarse y algo de electrónica
+- 🚴‍♂️ **Deporte**: Ciclismo y gimnasia funcional para desconectar
+- 🎮 **Videojuegos**: Fan de sagas como *Assassin's Creed* y *Red Dead Redemption*
+- 🎬 **Cine**: Amante del cine clásico y contemporáneo, con colección propia
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/sergio-martínez-porto-73727386/)
+- [GitHub](https://github.com/SergiMPorto)
+- 📧 sergi.martinez.dev@gmail.com *(ejemplo)*
+
