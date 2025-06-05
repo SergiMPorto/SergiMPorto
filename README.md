@@ -59,10 +59,97 @@ Me formé como **Desarrollador de Aplicaciones Multiplataforma** y posteriorment
 - 🎬 **Cine**: Amante del cine clásico y contemporáneo, con colección propia
 
 ---
+## 💬 Sobre Mí
+
+- 🔍 Me apasiona analizar, aprender y resolver problemas técnicos de forma creativa  
+- 👨‍👩‍👧‍👦 Valoro el trabajo en equipo, el respeto y el aprendizaje continuo  
+- 🚀 Apasionado por la automatización con herramientas como **Jenkins**, **CircleCI**, **ArgoCD**, **AWS**, **Google Cloud**, entre otras  
+- 🌱 Actualmente enfocado en aportar valor como **DevOps Junior**, crecer en un entorno técnico exigente y seguir construyendo mi camino profesional
+
+---
+
+## ⚙️ Lenguajes y Herramientas
+
+### 🔧 DevOps:
+<a href="https://www.docker.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
+<a href="https://jenkins.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+</a>
+<a href="https://circleci.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/" target="_blank">
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png" alt="ArgoCD" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+</a>
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40"/>
+</a>
+
+### 💻 Desarrollo:
+<a href="https://developer.android.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+### 🗄️ Bases de Datos:
+<a href="https://mariadb.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</a>
+
+### 🧰 Otros:
+<a href="https://unity.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+</a>
+
+---
+
 
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/sergio-martínez-porto-73727386/)
 - [GitHub](https://github.com/SergiMPorto)
-- 📧 sergi.martinez.dev@gmail.com *(ejemplo)*
+
 
