@@ -1,63 +1,78 @@
-# 👋 ¡Hola! Soy Sergi — Desarrollador de Software con especialización en DevOps 🚀
+# 👋 ¡Hola! Soy Sergio —  DevOps Engineer & Full Stack Developer 🚀
 
-Desde siempre me ha apasionado la tecnología. Aunque comencé mi carrera en otro ámbito, decidí redirigir mi camino hacia lo que realmente me motiva: el desarrollo de software y el ecosistema DevOps.
+Desde siempre me ha apasionado la tecnología. Aunque comencé mi carrera en otro ámbito, decidí redirigir mi camino hacia lo que realmente me motiva: el desarrollo de software y, sobre todo, el ecosistema **DevOps**.  
 
-Me formé como **Desarrollador de Aplicaciones Multiplataforma** y completé un **Máster de especialización en DevOps**, donde aprendí a integrar desarrollo, despliegue y automatización para optimizar el ciclo de vida del software. Desde entonces, he trabajado en proyectos reales aplicando estas prácticas con un enfoque práctico y orientado a resultados.
+Me formé como **Desarrollador de Aplicaciones Multiplataforma** y completé un **Máster en DevOps**, donde aprendí a integrar desarrollo, despliegue y automatización para optimizar el ciclo de vida del software. Desde entonces, he trabajado en proyectos reales aplicando estas prácticas con un enfoque práctico y orientado a resultados.  
 
----
-
-## 🛠️ Perfil Técnico
-
-- 🎓 Técnico Superior en Desarrollo Multiplataforma + **Máster en DevOps**
-- 💡 Enfocado en automatización, eficiencia operativa y mejora continua
-- 🚀 Experiencia en CI/CD, contenedores, infraestructura como código y despliegue en la nube
-- 🤝 Fomento la colaboración ágil y la cultura DevOps como motor de innovación
-- 🛠️ Herramientas clave: Jenkins, GitHub Actions, Argo CD, Docker, Kubernetes, Terraform, AWS, Google Cloud
-- 📚 Actualmente preparándome para la certificación **AWS Cloud Practitioner**
+Actualmente, **busco nuevas oportunidades como Ingeniero DevOps**, con el objetivo de seguir creciendo profesionalmente y aportar valor a equipos que apuesten por la automatización, la innovación y la mejora continua.  
 
 ---
 
-## 🧪 Proyectos Técnicos
-
-### 🧱 Aplicaciones Multiplataforma
-- Desarrollo de apps Android con **Java y Kotlin**
-- Integración con **Firebase Auth, Firestore y Storage**
-- Consumo de APIs como **Google Cloud** y **Google Vision**
-
-### 🛢️ Bases de Datos
-- Diseño y administración de **MySQL, PostgreSQL y Oracle**
-- Desarrollo de procedimientos y consultas avanzadas con **PL/SQL**
-
-### ⚙️ Automatización DevOps
-- Creación de pipelines CI/CD con **Jenkins** y **GitHub Actions**
-- Contenerización con **Docker** y despliegue con **Kubernetes (Minikube + Helm)**
-
-### 🌐 Desarrollo Web y APIs
-- Desarrollo de APIs RESTful con **Spring Boot**
-- Diseño de interfaces responsive con **HTML, CSS y JavaScript**
-
-### 🎮 Desarrollo en Unity
-- Videojuego 2D como proyecto práctico en **Unity**
-- Exploración de mecánicas 2D/3D y exportación multiplataforma
+<!-- ===================== BADGES / CONTACT & STATUS ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SergiMPorto&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-DevOps%20Engineer-2ea44f?style=flat" alt="open to work" />
+  <a href="https://www.linkedin.com/in/sergio-martínez-porto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="linkedin" /></a>
+  <a href="https://dockerhub.com/u/sergimp"><img src="https://img.shields.io/badge/Docker%20Hub-Profile-2496ED?logo=docker&logoColor=white&style=flat" alt="docker hub" /></a>
+</p>
 
 ---
 
-## 🎯 Intereses
+## 🛠️ Perfil Técnico  
 
-- 📚 **Lectura**: Desde cuentos de Raymond Carver hasta ensayos sobre inteligencia artificial
-- 🎧 **Música**: Vinilos, playlists para concentración y electrónica
-- 🚴‍♂️ **Deporte**: Ciclismo y entrenamiento funcional para desconectar
-- 🎮 **Videojuegos**: Fan de sagas como *Assassin's Creed* y *Red Dead Redemption*
-- 🎬 **Cine**: Amante del cine clásico y contemporáneo, con colección propia
+- 🎓 Técnico Superior en Desarrollo Multiplataforma + **Máster en DevOps**  
+- 🚀 Experiencia en **CI/CD, contenedores, infraestructura como código y despliegue en la nube**  
+- 💡 Enfocado en **automatización, eficiencia operativa y mejora continua**  
+- 🤝 Promuevo la colaboración ágil y la cultura DevOps como motor de innovación  
+- 🛠️ Herramientas clave: Jenkins, GitHub Actions, Argo CD, Docker, Kubernetes, Terraform, AWS, Google Cloud  
+- 📚 Actualmente preparándome para la certificación **AWS Cloud Practitioner**  
 
 ---
 
-## 💬 Sobre Mí
+## 🧪 Proyectos Técnicos  
+
+### ⚙️ Automatización DevOps  
+- Creación de pipelines CI/CD con **Jenkins** y **GitHub Actions**  
+- Contenerización con **Docker** y despliegue con **Kubernetes (Minikube + Helm, GKE)**  
+- Automatización de infraestructura con **Terraform y Helm Charts**  
+- Monitorización y alertas con **Prometheus + Grafana + Alertmanager**  
+
+### 🌐 Desarrollo Backend & APIs  
+- Desarrollo de APIs REST con **Spring Boot** y **FastAPI**  
+- Integración con **Firebase** y despliegue en **Google Cloud Run**  
+
+### 🧱 Aplicaciones Multiplataforma  
+- Desarrollo de apps Android (Java/Kotlin) conectadas a backends en la nube  
+- Integración con **Firebase Auth, Firestore y Storage**  
+
+### 🛢️ Bases de Datos  
+- Diseño y administración de **PostgreSQL, MySQL, MariaDB y Oracle**  
+- Procedimientos y consultas avanzadas con **PL/SQL**  
+
+### 🎮 Desarrollo en Unity  
+- Creación de un videojuego 2D como proyecto práctico en **Unity**  
+- Exploración de mecánicas 2D/3D y exportación multiplataforma  
+
+---
+
+## 🎯 Intereses  
+
+- 📚 **Lectura**: Desde cuentos de Raymond Carver hasta ensayos sobre inteligencia artificial  
+- 🎧 **Música**: Vinilos, playlists para concentración y electrónica  
+- 🚴‍♂️ **Deporte**: Ciclismo y entrenamiento funcional para desconectar  
+- 🎮 **Videojuegos**: Fan de sagas como *Assassin's Creed* y *Red Dead Redemption*  
+- 🎬 **Cine**: Amante del cine clásico y contemporáneo, con colección propia  
+
+---
+
+## 💬 Sobre Mí  
 
 - 🔍 Me motiva resolver retos técnicos de forma creativa y eficiente  
+- 🚀 Apasionado por la **automatización, la nube y la cultura DevOps**  
 - 👨‍👩‍👧‍👦 Valoro el trabajo en equipo, el respeto y el aprendizaje continuo  
-- 🚀 Apasionado por la automatización y el uso de herramientas como **Jenkins**, **CircleCI**, **ArgoCD**, **AWS**, **Google Cloud**, entre otras  
-- 🌱 Busco aportar valor como **DevOps Junior**, crecer en entornos técnicos exigentes y seguir construyendo una carrera sólida en tecnología
+- 🌱 En búsqueda activa de nuevas oportunidades como **Ingeniero DevOps** para aportar valor en proyectos desafiantes  
+
+---
 
 
 ## ⚙️ Lenguajes y Herramientas
@@ -136,68 +151,47 @@ Me formé como **Desarrollador de Aplicaciones Multiplataforma** y completé un 
 
 ---
 
-# 👋 Hi there! I'm Sergi — Software Developer with a DevOps Specialization 🚀
+# 👋 Hi there! I'm Sergio — DevOps Engineer & Full Stack Developer 🚀
 
-Technology has fascinated me since childhood. Although I started my career in a different field, I made a deliberate shift toward what truly drives me: software development and the DevOps ecosystem.
+Technology has always been my passion. Although I started my career in another field, I made a deliberate shift toward what truly drives me: **software development and the DevOps ecosystem**.  
 
-I hold a degree in **Multiplatform Application Development** and a **Master’s in DevOps**, where I learned how to bridge development, deployment, and automation to streamline the software lifecycle. Since then, I’ve applied these principles in real-world projects, always aiming to deliver scalable and efficient solutions.
+I hold a degree in **Multiplatform Application Development** and a **Master’s in DevOps**, where I specialized in bridging development, deployment, and automation to streamline the software lifecycle. Since then, I’ve applied these practices in real-world projects with a practical, results-oriented mindset.  
 
----
-
-## 🛠️ Technical Profile
-
-- 🎓 Higher Technician in Multiplatform Development + **DevOps Specialization Master’s**
-- 💡 Passionate about automation, operational excellence, and continuous delivery
-- 🚀 Strong focus on CI/CD, containers, infrastructure as code, and cloud-native deployments
-- 🤝 Advocate for agile collaboration and DevOps culture as enablers of innovation
-- 🛠️ Tools I work with: Jenkins, GitHub Actions, Argo CD, Docker, Kubernetes, Terraform, AWS, Google Cloud
-- 📚 Currently preparing for the **AWS Cloud Practitioner** certification
+I am currently **seeking new opportunities as a DevOps Engineer**, aiming to grow professionally and contribute to teams that value automation, innovation, and continuous improvement.  
 
 ---
 
-## 🧪 Technical Projects
-
-### 🧱 Multiplatform Applications
-- Built Android apps using **Java and Kotlin**
-- Integrated **Firebase Auth, Firestore, and Storage**
-- Consumed APIs such as **Google Cloud** and **Google Vision**
-
-### 🛢️ Databases
-- Designed and managed **MySQL, PostgreSQL, and Oracle** databases
-- Developed advanced queries and procedures using **PL/SQL**
-
-### ⚙️ DevOps Automation
-- Created CI/CD pipelines with **Jenkins** and **GitHub Actions**
-- Containerized applications with **Docker** and deployed with **Kubernetes (Minikube + Helm)**
-
-### 🌐 Web & API Development
-- Developed RESTful APIs with **Spring Boot**
-- Designed responsive UIs using **HTML, CSS, and JavaScript**
-
-### 🎮 Game Development
-- Built a 2D game in **Unity** as a practical project
-- Explored 2D/3D mechanics and cross-platform deployment
+<!-- ===================== BADGES ENGLISH ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SergiMPorto&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-DevOps%20Engineer-2ea44f?style=flat" alt="open to work" />
+  <a href="https://www.linkedin.com/in/sergio-martínez-porto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="linkedin" /></a>
+  <a href="https://dockerhub.com/u/sergimp"><img src="https://img.shields.io/badge/Docker%20Hub-Profile-2496ED?logo=docker&logoColor=white&style=flat" alt="docker hub" /></a>
+</p>
 
 ---
 
-## 🎯 Interests
+## 🛠️ Technical Profile  
 
-- 📚 **Reading**: From Raymond Carver short stories to AI essays
-- 🎧 **Music**: Vinyl collector, focus playlists, and electronic beats
-- 🚴‍♂️ **Fitness**: Cycling and functional training to recharge
-- 🎮 **Gaming**: Fan of *Assassin’s Creed* and *Red Dead Redemption*
-- 🎬 **Cinema**: Passionate about classic and modern films, with a curated collection
+- 🎓 **DevOps Master’s + Higher Technician in Multiplatform Development**  
+- 🚀 Hands-on experience in **CI/CD, containers, infrastructure as code, and cloud-native deployments**  
+- 💡 Focused on **automation, operational efficiency, and continuous improvement**  
+- 🤝 Advocate for agile collaboration and DevOps culture as drivers of innovation  
+- 🛠️ Key tools: Jenkins, GitHub Actions, Argo CD, Docker, Kubernetes, Terraform, AWS, Google Cloud  
+- 📚 Currently preparing for the **AWS Cloud Practitioner** certification  
+
+---
+
+## 💬 About Me  
+
+- 🔍 Driven to solve technical challenges creatively and efficiently  
+- 🚀 Passionate about **automation, cloud-native tools, and observability**  
+- 👨‍👩‍👧‍👦 Strong believer in teamwork, respect, and continuous learning  
+- 🌱 Actively seeking opportunities as a **DevOps Engineer** to contribute to challenging, high-impact projects  
 
 ---
 
-## 💬 About Me
-
-- 🔍 I enjoy analyzing, learning, and solving technical challenges creatively  
-- 👨‍👩‍👧‍👦 I value collaboration, respect, and continuous growth  
-- 🚀 Enthusiastic about automation and cloud-native tools like **Jenkins**, **CircleCI**, **ArgoCD**, **AWS**, and **Google Cloud**  
-- 🌱 Currently seeking opportunities as a **Junior DevOps Engineer** to contribute to high-impact teams and grow in a fast-paced tech environment
-
----
+## ⚙️ Languages & Tools  
 
 ### 🔧 DevOps:
 <a href="https://www.docker.com/" target="_blank"> 
